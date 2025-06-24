@@ -4,11 +4,10 @@
 
 ---
 
-I’m a photographer-turned-developer based in Dhaka, Bangladesh, passionate about building robust, user-friendly web applications. After completing an intensive 6-month journey mastering modern web technologies, I’m eager to contribute to a forward-thinking team.
-
+I am a web developer based in Dhaka, Bangladesh, focused on building robust, user-friendly web applications. My background as a photographer and filmmaker gives me a strong eye for design, visual storytelling, and user experience—unique strengths I bring to front-end development. Driven by curiosity and a commitment to continuous learning, I combine creative thinking with technical problem-solving and am ready to contribute to a forward-thinking team.
 ---
 
-### 💡 What I Can Do
+### 💡 Core Skills
 - **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Node.js, Express.js, REST APIs
 - **Database:** MongoDB
@@ -18,14 +17,14 @@ I’m a photographer-turned-developer based in Dhaka, Bangladesh, passionate abo
 
 ### 🤖 AI & Cloud-Powered Productivity
 
-I actively leverage AI and cloud tools including **ChatGPT, GitHub Copilot, Claude, Gemini, and Amazon AWS** to:
-- **Accelerate debugging & development workflows**
-- **Generate and optimize code efficiently**
-- **Automate repetitive or time-consuming tasks**
-- **Stay updated with the latest tech trends**
-- **Deploy and manage apps on cloud platforms**
+I leverage AI and cloud tools—including **ChatGPT, GitHub Copilot, Claude, Gemini, and Amazon AWS**—to:
+- Accelerate development workflows and debugging
+- Generate and optimize code efficiently
+- Automate repetitive tasks
+- Stay up-to-date with modern tech trends
+- Deploy and manage apps on cloud platforms
 
-This AI-driven, cloud-enabled approach makes me a faster, more adaptable developer—ready to implement new solutions and deliver value from day one.
+This AI-driven, cloud-enabled approach helps me deliver high-quality solutions quickly and reliably.
 
 ---
 
@@ -36,8 +35,8 @@ This AI-driven, cloud-enabled approach makes me a faster, more adaptable develop
 
 ---
 
-### 🌱 Continuous Learner
-I believe in lifelong learning. I’m currently exploring advanced backend topics, authentication (JWT), and deploying real-world apps using modern tools.
+### 🌱 Continuous Growth
+I am committed to lifelong learning. I am currently exploring advanced backend topics, authentication (JWT), and deploying real-world applications using modern tools.
 
 ---
 
@@ -49,5 +48,4 @@ I believe in lifelong learning. I’m currently exploring advanced backend topic
 
 ---
 
-> *Ready to make a real impact as part of your team—with the power of creativity, modern code, and AI.*
-
+<sub>**Fun fact:** My creative background in photography helps me bring an eye for design and detail to every project I build.</sub>
