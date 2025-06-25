@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github cover.png" alt="M N Sohan GitHub Banner" width="100%" />
+  <img src="https://github.com/sohanrahat/sohanrahat/blob/main/github%20cover%202.png" />
 </div>
 
 # 👋 Hi, I’m Sohan (M N Sohan)
