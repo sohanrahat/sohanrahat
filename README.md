@@ -16,7 +16,7 @@ Driven by curiosity and a commitment to continuous learning, I combine creative 
 
 ### 🛠️ Currently Building / Learning
 
-- Full-stack web applications with the MERN stack
+- Full-stack web application
 - Implementing JWT authentication & secure REST APIs
 - Exploring cloud deployment on AWS
 - Integrating AI tools (ChatGPT, Gemini, Claude) for smarter workflows
