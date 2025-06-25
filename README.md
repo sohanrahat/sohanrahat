@@ -8,8 +8,8 @@
 
 ---
 
-I am a web developer based in Dhaka, Bangladesh, focused on building robust, user-friendly web applications.  
-My background as a photographer and filmmaker gives me a strong eye for design, visual storytelling, and user experience—unique strengths I bring to front-end development.  
+I am a junior front-end web developer based in Dhaka, Bangladesh, specializing in building robust and user-friendly web applications.  
+My background as a photographer and filmmaker equips me with a keen eye for design, visual storytelling, and user experience—unique strengths I bring to front-end development.  
 Driven by curiosity and a commitment to continuous learning, I combine creative thinking with technical problem-solving and am ready to contribute to a forward-thinking team.
 
 ---
