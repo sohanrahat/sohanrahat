@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Sohan (M N Sohan)
 
-## 🟦 Front-end Web Developer | 🤖 AI-Enabled Problem Solver | 💼 Open to Job & Internship Opportunities
+## 🟦 Front-end Web Developer | 🤖 AI-Enabled Problem Solver | 💼 Open to Remote Job & Internship Opportunities
 
 ---
 
