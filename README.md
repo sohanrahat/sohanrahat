@@ -14,6 +14,15 @@ Driven by curiosity and a commitment to continuous learning, I combine creative 
 
 ---
 
+### 🛠️ Currently Building / Learning
+
+- Full-stack web applications with the MERN stack
+- Implementing JWT authentication & secure REST APIs
+- Exploring cloud deployment on AWS
+- Integrating AI tools (ChatGPT, Gemini, Claude) for smarter workflows
+
+---
+
 ### 🚀 Core Skills
 
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
@@ -53,6 +62,14 @@ I leverage AI and cloud tools—including ChatGPT, GitHub Copilot, Claude, Gemin
 ### 🌱 Continuous Growth
 
 I am committed to lifelong learning. I am currently exploring advanced backend topics, authentication (JWT), and deploying real-world applications using modern tools.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohanrahat&show_icons=true&theme=default" alt="Sohan's GitHub Stats" />
+</p>
 
 ---
 
